@@ -1,7 +1,5 @@
 # GeekFlix - Buscador_de_Peliculas
 
-<a href="https://ferrowrafael.github.io/Proyecto2-Diet_Me/"><img src="./images/DietMeLogo2.png" title="DietMeLogo" alt="DietMeLogo"></a>
-
 Página web dedicada a la busqueda de peliculas usando la API de TheMovieDB
 
 

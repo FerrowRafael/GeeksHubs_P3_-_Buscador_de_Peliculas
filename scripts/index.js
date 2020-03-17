@@ -18,7 +18,7 @@ function getMovies() {
       let pasarId = pelicula.id;
       console.log(pasarId)
       document.querySelector('.peliculas').innerHTML +=`
-      <div class='pelicula col-lg-3 col-sm-3 col-xs-4 col-12 my-3 d-flex align-items-center flex-column proyectoImg'>
+      <div class='pelicula col-sm-3 col-xs-4 col-12 my-3 d-flex align-items-center flex-column proyectoImg'>
         <h2 >${pelicula.title}</h2>
         <img class="image" id="img1" src="${image}${pelicula.poster_path}"></img>
         <div class="middle">
