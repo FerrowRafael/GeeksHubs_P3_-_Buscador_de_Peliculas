@@ -4,7 +4,7 @@
   "description": "Tercer proyecto Bootcamp GeeksHubs",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
